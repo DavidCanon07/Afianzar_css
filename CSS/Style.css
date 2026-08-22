@@ -71,6 +71,12 @@ header h1 {
     margin: 0;
 }
 
+.bio {
+    color: var(--ink-muted);
+    max-width: 640px;
+    margin: 20px auto 0;
+}
+
 /*  Main: fila de tarjetas (Ejercicio 1 - Flexbox)  */
 main {
     max-width: 1100px;
