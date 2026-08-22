@@ -6,7 +6,7 @@
     --linea: #d8dedc;
     --teal: #2b6777;
     --menta: #52ab98;
-    --ambar: #e8a33d;
+    --ambar: #8a5a17;
     --indigo: #45577a;
 
     --tarjeta-1-bg: #e6f1ef;
@@ -34,11 +34,6 @@ body {
 header {
     padding: 56px 24px 40px;
     text-align: center;
-}
-
-.prompt {
-    font-family: var(--fuente-mono);
-    font-size: 0.9rem;
 }
 
 header h1 {
@@ -127,6 +122,11 @@ main {
     opacity: 0.35;
 }
 
+.prompt {
+    font-family: var(--fuente-mono);
+    font-size: 0.9rem;
+}
+
 .tarjeta .prompt {
     margin: 0 0 12px 0;
     font-weight: bold;
@@ -186,9 +186,5 @@ footer {
 @media (max-width: 767px) {
     .fila-tarjetas {
         flex-direction: column;
-    }
-
-    .tarjeta {
-        width: 100%;
     }
 }

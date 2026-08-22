@@ -16,9 +16,9 @@ Acción:
 
 Realiza los siguientes ejercicios prácticos en un mismo archivo HTML (puedes incluir el CSS en el `<head>` o en un archivo externo):
 
-1. **Ejercicio 1:** Crea una página con 3 tarjetas en fila usando **Flexbox**. Cada tarjeta debe tener un título, una descripción breve y un color de fondo diferente.
-2. **Ejercicio 2:** Agrega una **media query** para que en móvil (pantallas menores a 768px) las tarjetas se apilen verticalmente y ocupen el 100% del ancho.
-3. **Ejercicio 3:** Aplica **box model** a las tarjetas (padding, margin, border) y agrega sombras (`box-shadow`) para darles profundidad.
+1. Ejercicio 1: Crea una página con 3 tarjetas en fila usando Flexbox. Cada tarjeta debe tener un título, una descripción breve y un color de fondo diferente.
+2. Ejercicio 2: Agrega una media query para que en móvil (pantallas menores a 768px) las tarjetas se apilen verticalmente y ocupen el 100% del ancho.
+3. Ejercicio 3: Aplica box model a las tarjetas (padding, margin, border) y agrega sombras (`box-shadow`) para darles profundidad.
 
 Criterios:
 
@@ -39,7 +39,7 @@ Salida:
 
 ## Insumo adicional aportado en la conversación
 
-- Se pidió tomar el proyecto de portafolio ["Maquetado"](https://github.com/DavidCanon07/ejercicios-maquetado)
+- Se pidió tomar el proyecto de portafolio [&#34;Maquetado&#34;](https://github.com/DavidCanon07/ejercicios-maquetado)
   como referencia de estructura, contenido y documentación (carpeta `CSS/`, `README.md`,
   `PROMPT.md`).
 - Se pidió usar proyectos reales del GitHub del autor como contenido de las 3 tarjetas, en vez de

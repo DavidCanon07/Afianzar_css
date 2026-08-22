@@ -9,7 +9,7 @@
 <body>
 
     <header>
-        <h1>DAVID CAÑÓN<span class="cursor">&#9615;</span></h1>
+        <h1>DAVID CAÑÓN<span class="cursor" aria-hidden="true">&#9615;</span></h1>
         <p class="subtitulo">Repaso CSS &mdash; Flexbox &middot; Box Model &middot; Responsive</p>
         <p class="bio">
             Estudiante de Tecnología en Desarrollo de Software, Analista de Datos con enfoque en
@@ -24,12 +24,12 @@
         <div class="fila-tarjetas">
 
             <article class="tarjeta tarjeta-1">
-                <div class="barra-ventana">
+                <div class="barra-ventana" aria-hidden="true">
                     <span class="punto"></span>
                     <span class="punto"></span>
                     <span class="punto"></span>
                 </div>
-                <p class="prompt">$ conexion_directa</p>
+                <h2 class="prompt">$ conexion_directa</h2>
                 <p class="descripcion">
                     CLI en Python que procesa un archivo plano bancario de ancho fijo, extrae 55
                     campos por posición de carácter y genera 3 reportes Excel independientes
@@ -45,12 +45,12 @@
             </article>
 
             <article class="tarjeta tarjeta-2">
-                <div class="barra-ventana">
+                <div class="barra-ventana" aria-hidden="true">
                     <span class="punto"></span>
                     <span class="punto"></span>
                     <span class="punto"></span>
                 </div>
-                <p class="prompt">$ automatizacion-ops</p>
+                <h2 class="prompt">$ automatizacion-ops</h2>
                 <p class="descripcion">
                     Automatización de procesos operativos bancarios en Python, con módulos de
                     prevalidación y validación de información para mejorar la eficiencia,
@@ -65,12 +65,12 @@
             </article>
 
             <article class="tarjeta tarjeta-3">
-                <div class="barra-ventana">
+                <div class="barra-ventana" aria-hidden="true">
                     <span class="punto"></span>
                     <span class="punto"></span>
                     <span class="punto"></span>
                 </div>
-                <p class="prompt">$ conexion_directa_conciso</p>
+                <h2 class="prompt">$ conexion_directa_conciso</h2>
                 <p class="descripcion">
                     Variante multi-archivo de Conexión Directa: permite seleccionar varios días a
                     la vez (cierre de fin de semana completo) y consolidarlos en una sola corrida,

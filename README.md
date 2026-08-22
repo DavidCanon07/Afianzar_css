@@ -51,6 +51,18 @@ estructura y documentación el proyecto de portafolio ["Maquetado"](https://gith
 El prompt utilizado, junto con las decisiones de contenido y diseño, está documentado en
 [PROMPT.md](PROMPT.md).
 
+Todo el proyecto fue supervisado y administrado por el autor bajo los 4 pilares fundamentales
+humanos del desarrollo asistido por IA:
+
+1. **Especificación** — definir con precisión el problema, los requisitos y las restricciones
+   antes de generar cualquier código.
+2. **Arquitectura** — decidir la estructura del proyecto (organización de archivos, convenciones,
+   referencia al proyecto "Maquetado") como criterio humano, no delegado a la IA.
+3. **Generación por piezas con contexto** — construir el resultado en incrementos pequeños y
+   revisables, cada uno con el contexto necesario del proyecto y del curso.
+4. **Revisión con criterio** — validar cada entrega (funcionalidad, legibilidad, fidelidad a los
+   requisitos y al material de clase) antes de aceptarla.
+
 ## Autor
 
 **David Cañón**
